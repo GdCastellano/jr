@@ -1,0 +1,62 @@
+[
+  {
+    "id_comentario": 1,
+    "cedula_simulada": "V-12.345.678",
+    "tipo_cliente": "Persona Natural",
+    "fecha": "2025-10-15",
+    "producto_o_servicio": "Mercantil en Línea Personas",
+    "canal_origen": "Instagram DM",
+    "puntuacion": 5,
+    "comentario": "La nueva plataforma de Mercantil en Línea es muy estable y rápida. Las transferencias a otros bancos se hacen efectivas casi de inmediato. Excelente mejora en la experiencia digital."
+  },
+  {
+    "id_comentario": 2,
+    "cedula_simulada": "V-08.765.432",
+    "tipo_cliente": "Empresa (PYME)",
+    "fecha": "2025-10-12",
+    "producto_o_servicio": "Punto de Venta Mercantil",
+    "canal_origen": "Twitter Mención",
+    "puntuacion": null,
+    "comentario": "El proceso para solicitar el Punto de Venta es un poco confuso en la web. Tuvimos que llamar varias veces. La aprobación fue rápida, pero la documentación inicial es pesada."
+  },
+  {
+    "id_comentario": 3,
+    "cedula_simulada": "E-25.001.200",
+    "tipo_cliente": "Persona Natural",
+    "fecha": "2025-10-18",
+    "producto_o_servicio": "Atención Telefónica (Centro de Atención Mercantil)",
+    "canal_origen": "Email (mercan24@bancomercantil.com)",
+    "puntuacion": 2,
+    "comentario": "Intenté resolver un problema con mi tarjeta de débito. La asistente virtual MIA fue útil para suspenderla, pero contactar a un operador humano a través del (0212) 503.24.24 fue excesivamente lento. El tiempo de espera es frustrante."
+  },
+  {
+    "id_comentario": 4,
+    "cedula_simulada": "V-15.987.654",
+    "tipo_cliente": "Persona Natural",
+    "fecha": "2025-10-20",
+    "producto_o_servicio": "Apertura Cuenta Corriente Simplificada",
+    "canal_origen": "Facebook Comentario",
+    "puntuacion": 5,
+    "comentario": "Abrir la Cuenta Simplificada fue sencillo, solo con la cédula y el RIF. Cumplió con lo prometido, proceso rápido y me permitió movilizar fondos de inmediato a través de Tpago."
+  },
+  {
+    "id_comentario": 5,
+    "cedula_simulada": "V-19.100.300",
+    "tipo_cliente": "Persona Natural",
+    "fecha": "2025-10-05",
+    "producto_o_servicio": "Tarjeta de Débito Mastercard (Contactless)",
+    "canal_origen": "Reclamo en Oficina (Chuao)",
+    "puntuacion": null,
+    "comentario": "Tuve problemas para activar la funcionalidad 'contactless'. El personal de la oficina fue amable y lo resolvió en el momento, pero el proceso en la app móvil no fue intuitivo."
+  },
+  {
+    "id_comentario": 6,
+    "cedula_simulada": "V-07.543.210",
+    "tipo_cliente": "Empresa (Corporativo)",
+    "fecha": "2025-09-28",
+    "producto_o_servicio": "Mercantil en Línea Empresas",
+    "canal_origen": "Encuesta de Satisfacción Web",
+    "puntuacion": 3,
+    "comentario": "La plataforma empresarial es robusta para el manejo de nóminas y pagos masivos. Sin embargo, la interfaz se siente un poco anticuada y a veces es difícil ubicar las opciones avanzadas de comercio exterior."
+  }
+]
